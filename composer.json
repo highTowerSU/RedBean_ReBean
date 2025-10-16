@@ -1,5 +1,5 @@
 {
-    "name": " hightowersu/redbean_tebean",
+    "name": " hightowersu/redbean_rebean",
     "description": "This is a plugin for the RedBeanPHP ORM, which will be generating automatically revision tables for given Beans",
     "require": {
         "php": ">=8.2"
